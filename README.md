@@ -1,13 +1,5 @@
 # SnakeAndLadderDesign
 
-## Problem Statement
-
-### Create a snake and ladder application. The application should take as input (from the command line or a file):
-
-- Number of snakes (s) followed by s lines each containing 2 numbers denoting the head and tail positions of the snake.
-- Number of ladders (l) followed by l lines each containing 2 numbers denoting the start and end positions of the ladder.
-- Number of players (p) followed by p lines each containing a name.
-- After taking these inputs, you should print all the moves in the form of the current player name followed by a random number between 1 to 6 denoting the die roll and the initial and final position based on the move.
 - Format: <player_name> rolled a <dice_value> and moved from <initial_position> to <final_position>
 
 - When someone wins the game, print that the player won the game.
@@ -55,17 +47,35 @@
 - 71 91
 - 81 100
 - 2
-- Shubham
-- Kanav
-- Anshuman
-- Lohit
+- Swagnik
+- Mayukh
+- Dhruba
+
 
 ## Output
 
-1.  Taking Input
-    ![Output 1](https://github.com/ShubhamThakur139/SnakeAndLadderDesign/blob/master/readmeImages/image1.png)
-2.  Taking Input
-    ![Output 2](https://github.com/ShubhamThakur139/SnakeAndLadderDesign/blob/master/readmeImages/image2.png)
-3.   Output Demo GIF
--    ![Output 3](https://github.com/ShubhamThakur139/SnakeAndLadderDesign/blob/master/readmeImages/image3.gif)
+Swagnik rolled a 1 and moved from 35 to 36
+Mayukh rolled a 4 and moved from 28 to 32
+Dhruba rolled a 5 and moved from 75 to 80
+Swagnik rolled a 4 and moved from 36 to 40
+Mayukh rolled a 5 and moved from 32 to 37
+Dhruba rolled a 1 and moved from 80 to 81
+Swagnik rolled a 3 and moved from 40 to 43
+Mayukh rolled a 2 and moved from 37 to 39
+Dhruba rolled a 3 and moved from 81 to 84
+Swagnik rolled a 5 and moved from 43 to 48
+Mayukh rolled a 4 and moved from 39 to 43
+Dhruba rolled a 2 and moved from 84 to 86
+Swagnik rolled a 2 and moved from 48 to 50
+Mayukh rolled a 3 and moved from 43 to 46
+Dhruba rolled a 5 and moved from 86 to 91
+Swagnik rolled a 3 and moved from 50 to 53
+Mayukh rolled a 4 and moved from 46 to 50
+Dhruba rolled a 1 and moved from 91 to 92
+Swagnik rolled a 3 and moved from 53 to 56
+Mayukh rolled a 2 and moved from 50 to 52
+Dhruba rolled a 2 and moved from 92 to 94
+Swagnik rolled a 2 and moved from 56 to 58
+Mayukh rolled a 3 and moved from 52 to 55
+
    
